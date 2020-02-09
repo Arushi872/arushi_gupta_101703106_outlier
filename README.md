@@ -14,7 +14,3 @@ and your df variable will now contain the new data which
 will not contain outlier rows and this function will also
 print the number of rows deleted!
 THANKS!
-Aryan Sindhi
-101703110
-COE-5
-Thapar Institute of Engineering and Technology
